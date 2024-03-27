@@ -13,7 +13,7 @@ A passionate, self-taught full stack web developer. My job involves doing what I
 **Reach out to me:**  
 - [Email](mailto:shefyaneabraham@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/shefyaneabraham/)
-- [Portfolio](https://shefyaneabraham.netlify.app/)
+- [Portfolio](https://shefyaneabraham.github.io/)
 
 <!---
 shefyaneabraham/shefyaneabraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
